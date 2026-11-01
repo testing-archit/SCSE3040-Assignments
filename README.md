@@ -2,6 +2,8 @@
 
 Machine Learning Operations lab work for SCSE3040, Bennett University. This repository contains the local assignment files, notebooks, code, supporting data, screenshots, experiment artifacts, submission archives, and a PDF for each available lab (P01–P11).
 
+**[Download all lab PDFs in one file (S24CSEU1049)](SCSE3040_All_Labs_S24CSEU1049.pdf)**
+
 | Lab | Topic | PDF |
 | --- | --- | --- |
 | P01 | Workbench | [P01 PDF](P01-workbench/P01_S24CSEU1049.pdf) |
